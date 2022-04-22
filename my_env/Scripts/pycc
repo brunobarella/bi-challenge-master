@@ -1,0 +1,3 @@
+#!c:\users\bruno\onedrive\documentos\desafio\bi-challenge-master\my_env\scripts\python.exe
+from numba.pycc import main
+main()

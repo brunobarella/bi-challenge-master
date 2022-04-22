@@ -1,0 +1,10 @@
+pycaret
+pandas
+numpy
+sklearn
+seaborn
+matplotlib
+plotly
+scipy
+statsmodels
+yellowbrick
